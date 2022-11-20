@@ -8,4 +8,4 @@ fig = dict({
 # To display the figure defined by this dict, use the low-level plotly.io.show function
 import plotly.io as pio
 
-pio.show(fig)
+
